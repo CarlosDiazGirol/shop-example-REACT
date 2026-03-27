@@ -32,7 +32,7 @@ function HomePage() {
           <h2>Una sola app para enseñar cada sprint con un look de tienda real.</h2>
           <p className="lead">
             Esta versión no implementa lógica real de login, compra ni estado global.
-            Solo muestra pantallas, rutas y navegación para que el alumnado vea el flujo.
+            Solo muestra pantallas, rutas y navegación para que el alumno vea el flujo.
           </p>
           <div className="hero-actions">
             <Link to="/sprint-1" className="button-link">
